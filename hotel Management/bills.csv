@@ -1,0 +1,5 @@
+booking_id,total_bill_amount,payment_method,extra_service,discount_code,payment_status
+US11,10639,debit card,pool&gym,cactus,paid
+RK09,5436,cash,food order,couple,partially paid
+LF12,4623,credit card,food order,family,yet to pay
+KD74,7658,cash,room service,double,paid
