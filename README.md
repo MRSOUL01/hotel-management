@@ -66,7 +66,7 @@ The system maps physical room configurations using these properties:
    python pro_2526.py
    ```
 
-<img width="501" height="412" alt="Screenshot 2026-08-18 224515" src="https://github.com/user-attachments/assets/7f85d4d9-f294-4d61-80de-bc69fbcb119c" />
+   <img width="501" height="412" alt="Screenshot 2026-08-18 224515" src="https://github.com/user-attachments/assets/7f85d4d9-f294-4d61-80de-bc69fbcb119c" />
 
 
 ## How It Works
