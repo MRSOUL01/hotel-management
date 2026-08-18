@@ -65,7 +65,8 @@ The system maps physical room configurations using these properties:
    ```bash
    python pro_2526.py
    ```
-<img width="697" height="75" alt="image" src="https://github.com/user-attachments/assets/3198dea2-8a84-4a4e-b564-6866cb375576" />
+## Project Screenshot
+![N&S HOTEL Main Interface](Screenshot%202026-08-18%20224515.png)
 
 ## How It Works
 * The system boots up by loading data from `customer.csv`, `bills.csv`, and `room.csv` into Pandas DataFrames.
