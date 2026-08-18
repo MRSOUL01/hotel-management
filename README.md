@@ -68,7 +68,6 @@ The system maps physical room configurations using these properties:
 
    <img width="501" height="412" alt="Screenshot 2026-08-18 224515" src="https://github.com/user-attachments/assets/7f85d4d9-f294-4d61-80de-bc69fbcb119c" />
 
-
 ## How It Works
 * The system boots up by loading data from `customer.csv`, `bills.csv`, and `room.csv` into Pandas DataFrames.
 * Users execute tasks via Tkinter forms to check-in guests, assign rooms, update services, and generate invoices.
