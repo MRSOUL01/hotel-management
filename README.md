@@ -73,3 +73,4 @@ The system maps physical room configurations using these properties:
 * Users execute tasks via Tkinter forms to check-in guests, assign rooms, update services, and generate invoices.
 * GUI pop-ups (Tkinter message boxes) validate data entry, flag errors, and confirm successful transactions.
 * Modified data frames are written back to their respective CSV files to ensure persistent updates.
+* There is easter egg which I made to represent the freedom of the coder to do anything.
