@@ -7,11 +7,12 @@ A desktop application built with Python that simplifies hotel operations, room b
 * **Data Management**: Uses Pandas to read, process, and update records seamlessly.
 * **Instant Feedback**: Implements Tkinter message boxes for success notifications, warnings, and error alerts.
 * **Structured Local Storage**: Organizes data into dedicated relational CSV files.
+* **Easter Egg**: There is easter egg with the name of cactus
 
 ## Tech Stack
 * **Language**: Python 3.x
 * **GUI Framework**: Tkinter
-* **Data Analysis Library**: Pandas
+* **Data Analysis Library**: Pandas, messagebox
 * **Storage**: CSV (Comma-Separated Values)
 
 ## Project Structure
